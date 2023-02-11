@@ -1,6 +1,6 @@
 ### Pesquis. fy
 
-Um site desenvolvido com um intuito de pesquisas mais recentes na internet.
+Um site desenvolvido com um intuito de pesquisas mais recentes e em alta na internet.
 
 
 ### Site responsivo ✅
